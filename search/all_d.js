@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['n_5fdims',['n_dims',['../classBubbleProfiler_1_1Perturbative__profiler.html#aebf86ca0b3a4627c4f45a0d4b81b813a',1,'BubbleProfiler::Perturbative_profiler::n_dims()'],['../classBubbleProfiler_1_1GSL__root__finder.html#ae07ddf35e9ec1863f36420d4dab4d9bc',1,'BubbleProfiler::GSL_root_finder::n_dims()'],['../classBubbleProfiler_1_1NLopt__optimizer.html#a6c9d0a02db9f56f8672419cd921103b8',1,'BubbleProfiler::NLopt_optimizer::n_dims()'],['../structBubbleProfiler_1_1Bubble__profiler__inputs.html#aeace2f7c3ab3cbb60593c8876120095d',1,'BubbleProfiler::Bubble_profiler_inputs::n_dims()']]],
+  ['n_5ffields',['n_fields',['../classBubbleProfiler_1_1Gaussian__potential.html#a66e47188aef8d8722dd8ee0e718d6e37',1,'BubbleProfiler::Gaussian_potential::n_fields()'],['../classBubbleProfiler_1_1Instream__profile__guesser.html#a63e52782cd4c7c3b3fba37ac0f205ec7',1,'BubbleProfiler::Instream_profile_guesser::n_fields()'],['../classBubbleProfiler_1_1Perturbations__ODE__system.html#aa2bf23467b3fa2b8c8d920b3e4418cbb',1,'BubbleProfiler::Perturbations_ODE_system::n_fields()'],['../structGaussian__inputs.html#a423ec5b8a6039128ee3bc14edbbf7525',1,'Gaussian_inputs::n_fields()'],['../namespacegaussian__alpha__tests.html#ae9d66f11e16fc1520278dec8151acdcb',1,'gaussian_alpha_tests.n_fields()']]],
+  ['n_5ffields_5fmax',['n_fields_max',['../namespacegaussian__alpha__tests.html#ad30179d47c8fc974ab6b773ad5b30901',1,'gaussian_alpha_tests']]],
+  ['n_5fgrid_5fpoints',['n_grid_points',['../classBubbleProfiler_1_1Perturbative__profiler.html#a825d7958a9b043c2fddd57120a670781',1,'BubbleProfiler::Perturbative_profiler']]],
+  ['n_5fspacetime_5fdimensions',['n_spacetime_dimensions',['../classBubbleProfiler_1_1Perturbations__ODE__system.html#adb25c0a8d46150aea656b0c6477f5de6',1,'BubbleProfiler::Perturbations_ODE_system']]],
+  ['n_5fspatial_5fdims',['n_spatial_dims',['../classBubbleProfiler_1_1Field__profiles.html#a00414a76659090ef9f188771afb6ee05',1,'BubbleProfiler::Field_profiles']]],
+  ['nlopt_5ffunction',['nlopt_function',['../classBubbleProfiler_1_1NLopt__optimizer.html#a44c4c9500eead039bfd8b4676414e5b0',1,'BubbleProfiler::NLopt_optimizer']]],
+  ['nlopt_5foptimizer',['NLopt_optimizer',['../classBubbleProfiler_1_1NLopt__optimizer.html',1,'BubbleProfiler']]],
+  ['nlopt_5foptimizer',['NLopt_optimizer',['../classBubbleProfiler_1_1NLopt__optimizer.html#a84df13bb0f35e493de35d31f1b469ba1',1,'BubbleProfiler::NLopt_optimizer::NLopt_optimizer(Index)'],['../classBubbleProfiler_1_1NLopt__optimizer.html#aead378d549badbb7a6862f8791ae4b83',1,'BubbleProfiler::NLopt_optimizer::NLopt_optimizer(F &amp;&amp;, Index)']]],
+  ['nlopt_5foptimizer_2ecpp',['nlopt_optimizer.cpp',['../nlopt__optimizer_8cpp.html',1,'']]],
+  ['nlopt_5foptimizer_2ehpp',['nlopt_optimizer.hpp',['../nlopt__optimizer_8hpp.html',1,'']]],
+  ['no_5fconvergence_5ferror',['No_convergence_error',['../classBubbleProfiler_1_1No__convergence__error.html#a3f840cd3bec20df01ada32a1469fbc79',1,'BubbleProfiler::No_convergence_error::No_convergence_error(int it_)'],['../classBubbleProfiler_1_1No__convergence__error.html#a8555ebb001b3dd34a2ac21e283fdf187',1,'BubbleProfiler::No_convergence_error::No_convergence_error(int it_, const std::string &amp;what_)'],['../classBubbleProfiler_1_1No__convergence__error.html#aa46616d38136dcedb58964f823664c72',1,'BubbleProfiler::No_convergence_error::No_convergence_error(int it_, const char *what_)']]],
+  ['no_5fconvergence_5ferror',['No_convergence_error',['../classBubbleProfiler_1_1No__convergence__error.html',1,'BubbleProfiler']]],
+  ['not_5fimplemented_5ferror',['Not_implemented_error',['../classBubbleProfiler_1_1Not__implemented__error.html',1,'BubbleProfiler']]],
+  ['num_5ffields',['num_fields',['../classBubbleProfiler_1_1Kink__profile__guesser.html#aacb81da423f50fa74960adb022b48635',1,'BubbleProfiler::Kink_profile_guesser::num_fields()'],['../classBubbleProfiler_1_1Shooting__profile__guesser.html#abf4465ebcec767b1978d5930cdfca6fb',1,'BubbleProfiler::Shooting_profile_guesser::num_fields()']]],
+  ['numeric_2ecpp',['numeric.cpp',['../numeric_8cpp.html',1,'']]],
+  ['numeric_2ehpp',['numeric.hpp',['../numeric_8hpp.html',1,'']]],
+  ['numerical_5ferror',['Numerical_error',['../classBubbleProfiler_1_1Numerical__error.html',1,'BubbleProfiler']]]
+];

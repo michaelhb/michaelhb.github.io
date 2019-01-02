@@ -1,0 +1,29 @@
+<map id="/home/michael/bubbleprofiler_release/include/log_message.hpp" name="/home/michael/bubbleprofiler_release/include/log_message.hpp">
+<area shape="rect" id="node2" href="$basic__logger_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/basic_logger.hpp" alt="" coords="1406,206,1693,247"/>
+<area shape="rect" id="node24" href="$logging__manager_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/logging\l_manager.hpp" alt="" coords="2566,95,2813,151"/>
+<area shape="rect" id="node28" href="$log__message_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/log_message.cpp" alt="" coords="2837,102,3084,143"/>
+<area shape="rect" id="node3" href="$algebraic__potential_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/algebraic\l_potential.hpp" alt="" coords="1008,303,1254,359"/>
+<area shape="rect" id="node6" href="$generic__perturbative__profiler_8hpp.html" title="contains the implementation of the Perturbative_profiler class " alt="" coords="1757,407,2004,463"/>
+<area shape="rect" id="node13" href="$kink__profile__guesser_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/kink_profile\l_guesser.hpp" alt="" coords="2233,303,2488,359"/>
+<area shape="rect" id="node15" href="$observers_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/observers.hpp" alt="" coords="1278,310,1541,351"/>
+<area shape="rect" id="node17" href="$relative__convergence__tester_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/relative\l_convergence_tester.hpp" alt="" coords="1565,303,1812,359"/>
+<area shape="rect" id="node19" href="$instream__profile__guesser_8hpp.html" title="contains the definition of the Instream_profile_guesser class " alt="" coords="33,303,280,359"/>
+<area shape="rect" id="node21" href="$shooting__profile__guesser_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/shooting\l_profile_guesser.hpp" alt="" coords="458,303,705,359"/>
+<area shape="rect" id="node23" href="$basic__logger_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/basic_logger.cpp" alt="" coords="729,310,984,351"/>
+<area shape="rect" id="node4" href="$algebraic__potential_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/algebraic_potential.cpp" alt="" coords="638,414,949,455"/>
+<area shape="rect" id="node5" href="$run__cmd__line__potential_8cpp.html" title="Command line interface to BubbleProfiler " alt="" coords="1365,615,1612,671"/>
+<area shape="rect" id="node7" href="$perturbative__profiler_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/perturbative\l_profiler.hpp" alt="" coords="2118,511,2373,567"/>
+<area shape="rect" id="node8" href="$gaussian__potential__test_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/gaussian\l/gaussian_potential_test.cpp" alt="" coords="1826,615,2073,671"/>
+<area shape="rect" id="node9" href="$general__fubini_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in case in which exact solution is kno..." alt="" coords="2368,615,2614,671"/>
+<area shape="rect" id="node10" href="$logarithmic_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in case in which exact solution is kno..." alt="" coords="2638,615,2893,671"/>
+<area shape="rect" id="node11" href="$tabulate_8cpp.html" title="Program that tabulates action for a one&#45;dimensional potential. " alt="" coords="2097,615,2344,671"/>
+<area shape="rect" id="node12" href="$thin__wall_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in a thin&#45;wall case, in which exact solution is known. " alt="" coords="2917,615,3164,671"/>
+<area shape="rect" id="node14" href="$kink__profile__guesser_8cpp.html" title="contains the implementation of the Kink_profile_guesser class " alt="" coords="2077,407,2324,463"/>
+<area shape="rect" id="node16" href="$observers_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/observers.cpp" alt="" coords="1024,414,1270,455"/>
+<area shape="rect" id="node18" href="$relative__convergence__tester_8cpp.html" title="Judge whether perturbative solver converged. " alt="" coords="1345,407,1632,463"/>
+<area shape="rect" id="node20" href="$instream__profile__guesser_8cpp.html" title="contains the implementation of the Instream_profile_guesser class " alt="" coords="29,407,284,463"/>
+<area shape="rect" id="node22" href="$shooting__profile__guesser_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/shooting_profile\l_guesser.cpp" alt="" coords="308,407,562,463"/>
+<area shape="rect" id="node25" href="$logging__manager_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/logging_manager.cpp" alt="" coords="2753,206,3032,247"/>
+<area shape="rect" id="node26" href="$examples_2quartic_2action_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential parameterized by &#160;and ..." alt="" coords="3056,199,3302,255"/>
+<area shape="rect" id="node27" href="$scale_8cpp.html" title="checks behaviour of action under changes in units " alt="" coords="3326,206,3613,247"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BubbleProfiler::Potential" name="BubbleProfiler::Potential">
+<area shape="rect" id="node2" href="$classBubbleProfiler_1_1Algebraic__potential.html" title="Implements a multi dimensional scalar field potential, which may be expressed as almost any algerbrai..." alt="" coords="284,5,507,47"/>
+<area shape="rect" id="node3" href="$classBubbleProfiler_1_1Gaussian__potential.html" title="Potential composed of two multivariate Gaussian functions. " alt="" coords="288,71,503,112"/>
+<area shape="rect" id="node4" href="$classBubbleProfiler_1_1Generalized__fubini__potential.html" title="BubbleProfiler::Generalized\l_fubini_potential" alt="" coords="276,136,515,177"/>
+<area shape="rect" id="node5" href="$classBubbleProfiler_1_1Logarithmic__potential.html" title="BubbleProfiler::Logarithmic\l_potential" alt="" coords="276,201,515,243"/>
+<area shape="rect" id="node6" href="$classBubbleProfiler_1_1Restricted__quartic__potential.html" title="BubbleProfiler::Restricted\l_quartic_potential" alt="" coords="280,267,511,308"/>
+<area shape="rect" id="node7" href="$classBubbleProfiler_1_1Thin__wall__potential.html" title="Example thin wall potential as given by Coleman. " alt="" coords="304,332,487,373"/>
+</map>

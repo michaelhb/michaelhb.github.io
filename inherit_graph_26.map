@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classBubbleProfiler_1_1Profile__guesser.html" title="Abstract class to represent ansatz generators. " alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node2" href="$classBubbleProfiler_1_1Instream__profile__guesser.html" title="Provides guess for field profiles read from an input stream. " alt="" coords="260,5,475,47"/>
+<area shape="rect" id="node3" href="$classBubbleProfiler_1_1Kink__profile__guesser.html" title="Computes an initial guess for the bubble profile using a kink ansatz. " alt="" coords="276,71,459,112"/>
+<area shape="rect" id="node4" href="$classBubbleProfiler_1_1Shooting__profile__guesser.html" title="Constructs a solution ansatz using the overshoot/undershoot method. " alt="" coords="260,136,475,177"/>
+</map>

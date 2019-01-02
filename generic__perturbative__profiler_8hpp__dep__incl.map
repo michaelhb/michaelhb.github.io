@@ -1,0 +1,9 @@
+<map id="/home/michael/bubbleprofiler_release/include/generic_perturbative_profiler.hpp" name="/home/michael/bubbleprofiler_release/include/generic_perturbative_profiler.hpp">
+<area shape="rect" id="node2" href="$perturbative__profiler_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/perturbative\l_profiler.hpp" alt="" coords="680,109,935,165"/>
+<area shape="rect" id="node3" href="$run__cmd__line__potential_8cpp.html" title="Command line interface to BubbleProfiler " alt="" coords="5,213,252,269"/>
+<area shape="rect" id="node4" href="$gaussian__potential__test_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/gaussian\l/gaussian_potential_test.cpp" alt="" coords="276,213,523,269"/>
+<area shape="rect" id="node5" href="$general__fubini_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in case in which exact solution is kno..." alt="" coords="547,213,793,269"/>
+<area shape="rect" id="node6" href="$logarithmic_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in case in which exact solution is kno..." alt="" coords="817,213,1072,269"/>
+<area shape="rect" id="node7" href="$tabulate_8cpp.html" title="Program that tabulates action for a one&#45;dimensional potential. " alt="" coords="1096,213,1343,269"/>
+<area shape="rect" id="node8" href="$thin__wall_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in a thin&#45;wall case, in which exact solution is known. " alt="" coords="1367,213,1613,269"/>
+</map>

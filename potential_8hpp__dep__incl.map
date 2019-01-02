@@ -1,0 +1,34 @@
+<map id="/home/michael/bubbleprofiler_release/include/potential.hpp" name="/home/michael/bubbleprofiler_release/include/potential.hpp">
+<area shape="rect" id="node2" href="$algebraic__potential_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/algebraic\l_potential.hpp" alt="" coords="152,102,399,158"/>
+<area shape="rect" id="node4" href="$run__cmd__line__potential_8cpp.html" title="Command line interface to BubbleProfiler " alt="" coords="264,339,511,395"/>
+<area shape="rect" id="node5" href="$gaussian__potential_8hpp.html" title="contains definitions of Gaussian_potential class " alt="" coords="423,102,670,158"/>
+<area shape="rect" id="node8" href="$generic__perturbative__profiler_8hpp.html" title="contains the implementation of the Perturbative_profiler class " alt="" coords="964,102,1211,158"/>
+<area shape="rect" id="node14" href="$restricted__quartic__potential_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/restricted\l_quartic_potential.hpp" alt="" coords="694,102,940,158"/>
+<area shape="rect" id="node17" href="$euclidean__action_8cpp.html" title="implementation of helper functions for calculating Euclidean action " alt="" coords="1235,109,1522,151"/>
+<area shape="rect" id="node18" href="$instream__profile__guesser_8cpp.html" title="contains the implementation of the Instream_profile_guesser class " alt="" coords="1546,102,1800,158"/>
+<area shape="rect" id="node19" href="$kink__profile__guesser_8cpp.html" title="contains the implementation of the Kink_profile_guesser class " alt="" coords="1824,102,2071,158"/>
+<area shape="rect" id="node20" href="$perturbations__ode__system_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/perturbations\l_ode_system.cpp" alt="" coords="2095,102,2342,158"/>
+<area shape="rect" id="node21" href="$relative__convergence__tester_8cpp.html" title="Judge whether perturbative solver converged. " alt="" coords="2366,102,2652,158"/>
+<area shape="rect" id="node22" href="$shooting_8cpp.html" title="One&#45;dimensional shooting method. " alt="" coords="2676,109,2923,151"/>
+<area shape="rect" id="node23" href="$shooting__profile__guesser_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/shooting_profile\l_guesser.cpp" alt="" coords="2947,102,3202,158"/>
+<area shape="rect" id="node24" href="$generalized__fubini__potential_8hpp.html" title="/home/michael/bubbleprofiler\l_release/examples/general\l&#45;fubini/generalized_fubini\l_potential.hpp" alt="" coords="3226,95,3472,165"/>
+<area shape="rect" id="node28" href="$logarithmic__potential_8hpp.html" title="/home/michael/bubbleprofiler\l_release/examples/logarithmic\l/logarithmic_potential.hpp" alt="" coords="3792,102,4047,158"/>
+<area shape="rect" id="node32" href="$thin__wall__potential_8hpp.html" title="/home/michael/bubbleprofiler\l_release/examples/thin&#45;wall\l/thin_wall_potential.hpp" alt="" coords="3496,102,3743,158"/>
+<area shape="rect" id="node3" href="$algebraic__potential_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/algebraic_potential.cpp" alt="" coords="39,228,350,269"/>
+<area shape="rect" id="node6" href="$gaussian__potential_8cpp.html" title="contains the implementation of the Gaussian_potential class " alt="" coords="476,228,779,269"/>
+<area shape="rect" id="node7" href="$gaussian__potential__test_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/gaussian\l/gaussian_potential_test.cpp" alt="" coords="844,339,1091,395"/>
+<area shape="rect" id="node9" href="$perturbative__profiler_8hpp.html" title="/home/michael/bubbleprofiler\l_release/include/perturbative\l_profiler.hpp" alt="" coords="1420,221,1675,277"/>
+<area shape="rect" id="node10" href="$general__fubini_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in case in which exact solution is kno..." alt="" coords="2663,339,2910,395"/>
+<area shape="rect" id="node11" href="$logarithmic_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in case in which exact solution is kno..." alt="" coords="3595,339,3850,395"/>
+<area shape="rect" id="node12" href="$tabulate_8cpp.html" title="Program that tabulates action for a one&#45;dimensional potential. " alt="" coords="1342,339,1588,395"/>
+<area shape="rect" id="node13" href="$thin__wall_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential in a thin&#45;wall case, in which exact solution is known. " alt="" coords="2934,339,3180,395"/>
+<area shape="rect" id="node15" href="$restricted__quartic__potential_8cpp.html" title="/home/michael/bubbleprofiler\l_release/src/restricted_quartic\l_potential.cpp" alt="" coords="1074,221,1344,277"/>
+<area shape="rect" id="node16" href="$examples_2quartic_2action_8cpp.html" title="Program that calculates action for a one&#45;dimensional potential parameterized by &#160;and ..." alt="" coords="803,221,1050,277"/>
+<area shape="rect" id="node25" href="$generalized__fubini__observer_8hpp.html" title="/home/michael/bubbleprofiler\l_release/examples/general\l&#45;fubini/generalized_fubini\l_observer.hpp" alt="" coords="3176,213,3423,284"/>
+<area shape="rect" id="node27" href="$generalized__fubini__potential_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/general\l&#45;fubini/generalized_fubini\l_potential.cpp" alt="" coords="2906,213,3152,284"/>
+<area shape="rect" id="node26" href="$generalized__fubini__observer_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/general\l&#45;fubini/generalized_fubini\l_observer.cpp" alt="" coords="3204,332,3451,403"/>
+<area shape="rect" id="node29" href="$logarithmic__observer_8hpp.html" title="/home/michael/bubbleprofiler\l_release/examples/logarithmic\l/logarithmic_observer.hpp" alt="" coords="3818,221,4072,277"/>
+<area shape="rect" id="node31" href="$logarithmic__potential_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/logarithmic\l/logarithmic_potential.cpp" alt="" coords="4096,221,4351,277"/>
+<area shape="rect" id="node30" href="$logarithmic__observer_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/logarithmic\l/logarithmic_observer.cpp" alt="" coords="3874,339,4128,395"/>
+<area shape="rect" id="node33" href="$thin__wall__potential_8cpp.html" title="/home/michael/bubbleprofiler\l_release/examples/thin&#45;wall\l/thin_wall_potential.cpp" alt="" coords="3496,221,3743,277"/>
+</map>

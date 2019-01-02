@@ -1,0 +1,13 @@
+<map id="BubbleProfiler::Error" name="BubbleProfiler::Error">
+<area shape="rect" id="node3" href="$classBubbleProfiler_1_1BVP__solver__error.html" title="Exception indicating failure to integrate BVP. " alt="" coords="483,5,657,47"/>
+<area shape="rect" id="node4" href="$classBubbleProfiler_1_1Domain__error.html" title="Exception indicating function evaluation out of allowed domain. " alt="" coords="471,71,669,112"/>
+<area shape="rect" id="node5" href="$classBubbleProfiler_1_1IO__error.html" title="Exception indicating generic input/output error. " alt="" coords="487,136,653,177"/>
+<area shape="rect" id="node6" href="$classBubbleProfiler_1_1No__convergence__error.html" title="Exception indicating failure of iterative procedure to converge. " alt="" coords="487,201,653,243"/>
+<area shape="rect" id="node7" href="$classBubbleProfiler_1_1Not__implemented__error.html" title="BubbleProfiler::Not\l_implemented_error" alt="" coords="483,267,657,308"/>
+<area shape="rect" id="node8" href="$classBubbleProfiler_1_1Numerical__error.html" title="Exception indicating generic numerical error. " alt="" coords="459,332,681,373"/>
+<area shape="rect" id="node9" href="$classBubbleProfiler_1_1Optimizer__error.html" title="Exception indicating that the optimizer failed to converge. " alt="" coords="459,397,681,439"/>
+<area shape="rect" id="node10" href="$classBubbleProfiler_1_1Out__of__bounds__error.html" title="Exception indicating out of bounds access error. " alt="" coords="483,463,657,504"/>
+<area shape="rect" id="node11" href="$classBubbleProfiler_1_1Out__of__memory__error.html" title="Exception indicating that memory allocation failed. " alt="" coords="483,528,657,569"/>
+<area shape="rect" id="node12" href="$classBubbleProfiler_1_1Setup__error.html" title="Exception indicating general setup error. " alt="" coords="475,593,665,635"/>
+<area shape="rect" id="node13" href="$classBubbleProfiler_1_1Thin__wall__error.html" title="Exception indicating a thin&#45;wall ansatz which we can&#39;t solve (yet!) " alt="" coords="479,659,661,700"/>
+</map>
